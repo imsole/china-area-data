@@ -1,5 +1,9 @@
 # 中国行政区域数据
 
+## demo
+
+https://plortinus.github.io/element-china-area-data/index.html
+
 ## 安装
 
 ```
